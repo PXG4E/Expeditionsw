@@ -1,0 +1,11 @@
+{
+  "name": "MyUILib",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "MyUILib": {
+        "$path": "src"
+      }
+    }
+  }
+}
